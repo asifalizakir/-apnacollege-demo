@@ -1,2 +1,2 @@
-# -apnacollege-demo
+# apnacollege-demo
 this is my repository 
