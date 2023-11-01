@@ -1,5 +1,5 @@
 # apnacollege-demo
+
 this is my repository
 <br>
-Author-Asif Ali
-
+Author-Asif Ali Zakir
